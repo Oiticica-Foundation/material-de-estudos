@@ -1,0 +1,23 @@
+Front-end
+
+Tawilnds
+	https://www.youtube.com/watch?v=W_LS1SnOcYg&list=PLXik_5Br-zO8tumrmknGlQFfKO01wk2jJ&index=1
+	https://www.youtube.com/watch?v=1eLaBow7Zbo&list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u
+
+nextjs
+	https://www.youtube.com/watch?v=GjQB4aAhJ24&list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V
+	https://www.youtube.com/watch?v=XHrbg2iYNCg&list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft
+	https://www.youtube.com/watch?v=QaGHoQgEaJc&list=PLDcRxzkqEbDzvXYmteTMVBBTEdCEDlkQq
+
+Backend
+	https://www.youtube.com/watch?v=hHM-hr9q4mo&t=2189s
+	https://www.youtube.com/watch?v=F2cNmWNZSM0&list=PLWXw8Gu52TRLBgfIclx1Nh8LA60knsxY9
+	https://www.youtube.com/watch?v=LB8KwiiUGy0
+	https://www.youtube.com/watch?v=zaWFnHagbrM
+	https://www.youtube.com/watch?v=fm4_EuCsQwg&t=7s
+
+
+Banco de dados
+	https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+
+
