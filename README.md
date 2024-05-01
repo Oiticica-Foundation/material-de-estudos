@@ -14,7 +14,7 @@
 </article>
 
 
-<h2>Estude o git e o gitHub</h2>
+<h3>🌟Estude o git e o gitHub🌟</h3>
 <details>
   <summary>Git Github</summary>
   <ol type="1">
@@ -69,6 +69,8 @@
         concepts of flexbox</a>
     </li>
   </ol>
+  <h4>Exemplos Flex Box</h4>
+  <a href="https://github.com/Oiticica-Foundation/material-de-estudos/tree/main/Iniciante/html-css/Flex%20box">Ver Exemplos</a>
 </details>
 
 <details>
@@ -82,6 +84,8 @@
     <li><a href="https://www.youtube.com/watch?v=R_dqkhX7WbU">CSS Grid - Tudo o que você precisa saber</a></li>
     <li><a href="https://www.youtube.com/watch?v=HN1UjzRSdBk">Desvendando o CSS Grid na prática | Mayk Brito</a></li>
   </ol>
+    <h4>Exemplos Grid</h4>
+  <a href="https://github.com/Oiticica-Foundation/material-de-estudos/tree/main/Iniciante/html-css/Grid">Ver Exemplos</a>
 </details>
 
 <details>
@@ -101,6 +105,8 @@
         #01 - Introdução</a>
     </li>
   </ol>
+     <h4>Exemplos Javascript</h4>
+  <a href="https://github.com/Oiticica-Foundation/material-de-estudos/tree/main/Iniciante/Javascript">Ver Exemplos</a>
 </details>
 
 <h3>Medio</h3>
@@ -131,6 +137,7 @@
         1 - Apresentação</a>
     </li>
   </ol>
+
 </details>
 
 <details>
@@ -148,6 +155,8 @@
     <li><a href="https://www.youtube.com/watch?v=fm4_EuCsQwg&t">COMEÇANDO COM NODE.JS EM 2022</a>
     </li>
   </ol>
+    <h4>Exemplos Backend</h4>
+  <a href="https://github.com/Oiticica-Foundation/material-de-estudos/tree/main/Medio/Backend/examples">Ver Exemplos</a>
 </details>
 
 <details>
@@ -157,6 +166,8 @@
         O que é um Banco de Dados?</a>
     </li>
   </ol>
+    <h4>Exemplos Banco de dados</h4>
+  <a href="https://github.com/Oiticica-Foundation/material-de-estudos/tree/main/Medio/Database/exemplos">Ver Exemplos</a>
 </details>
 
 <h3>Avançado</h3>
