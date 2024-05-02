@@ -1,12 +1,9 @@
 <h1>Git e Github</h1>
 <article>
   <p>Git e GitHub são ferramentas essenciais para qualquer profissional de tecnologia da informação (TI),
-    independentemente da área de especialização. Aqui está um resumo simplificado de sua importância:</p>
+    independentemente da área de especialização.</p>
 
-  <p>Controle de Versão (Git): Git é um sistema de controle de versão que permite aos desenvolvedores gerenciar e
-    rastrear mudanças no código-fonte ao longo do tempo. Isso significa que você pode salvar diferentes versões de um
-    projeto e reverter para uma versão anterior se algo der errado. É como um sistema de "salvar jogo" para o código,
-    permitindo aos desenvolvedores experimentar sem o risco de perder trabalho anterior.</p>
+
 
   <p>Em resumo, Git e GitHub são fundamentais para a gestão eficiente de projetos de software, colaboração e construção
     de uma presença profissional online. Mesmo para aqueles que são novos na área de TI, entender e usar essas
