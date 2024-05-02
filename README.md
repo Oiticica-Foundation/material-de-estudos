@@ -10,6 +10,7 @@
     ferramentas pode ser uma grande vantagem.</p>
 </article>
 
+[Exemplos basicos](https://github.com/Oiticica-Foundation/material-de-estudos/blob/main/Exemplos/README.md)
 
 <h3>🌟Estude o git e o gitHub🌟</h3>
 <details>
