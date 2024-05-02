@@ -1,0 +1,23 @@
+version: '3.9'
+
+services:
+  database:
+    image: 'postgres:14'
+    container_name: crud_basico
+    ports:
+      - '${DATABASE_PORT:-5432}:5432'
+    environment:
+      - POSTGRES_DB=${DB_NAME}
+      - POSTGRES_USER=${DB_USERNAME}
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+    volumes:
+      - crud_basico_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-q", "-d", "${DB_NAME}", "-U", "${DB_USERNAME}"]
+      retries: 3
+      timeout: 5s
+    mem_limit: 500m
+
+volumes:
+  crud_basico_data:
+    driver: local
